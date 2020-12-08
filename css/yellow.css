@@ -246,7 +246,7 @@ $text-sidebar-hover : #6b6b6b /*#fff*/;
 }
 
 
-#text p { 
+#text p li { 
     font-family: 'Courier Prime', sans-serif;
     font-size: 1.1em;
     font-weight: 300;
