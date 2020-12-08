@@ -6,12 +6,12 @@
    @import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
 
    body {
-    font-family: 'Ruda', sans-serif;
+    font-family: 'Piedra', cursive;
     background: #fafafa; /* dark white */
 }
 
 p {
-    font-family: 'Ruda', sans-serif;
+    font-family: 'Piedra', cursive;
     font-size: 1.1em;
     font-weight: 300;
     line-height: 1.7em;
@@ -242,7 +242,7 @@ $text-sidebar-hover : #6b6b6b /*#fff*/;
     color: #1A4876/*##414A4C*/; /* dark blue */
 }
 #text a { 
-    font-family: 'Courier PRime', sans-serif;
+    font-family: 'Courier Prime', sans-serif;
     font-size: 1.1em;
     font-weight: 300;
     line-height: 1.7em;
