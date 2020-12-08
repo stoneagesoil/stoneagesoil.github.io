@@ -350,7 +350,7 @@ a.article:hover {
     font-size: 1.1em;
     font-weight: 300;
     line-height: 1.7em;
-    padding: 30px;
+    padding: 50px;
     /*color: #999;*/
     color: #1A4876/*##414A4C*/; /* dark blue */
 }
@@ -362,7 +362,6 @@ a.article:hover {
 }
 
  p.copyright {
-        position: absolute;
         width: 100%;
         line-height: 40px;
         font-size: 0.7em;
