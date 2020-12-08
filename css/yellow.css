@@ -312,40 +312,7 @@ a.article:hover {
     background: #6d7fcc !important; /* BGT */
     color: $text-sidebar !important;
 }
-/*
-#sidebarCollapse {
-    width: 40px;
-    height: 40px;
-    background: #f5f5f5;
-    cursor: pointer;
-}
 
-#sidebarCollapse span {
-    width: 80%;
-    height: 2px;
-    margin: 0 auto;
-    display: block;
-    background: #555;
-    transition: all 0.8s cubic-bezier(0.810, -0.330, 0.345, 1.375);
-    transition-delay: 0.2s;
-}
-
-#sidebarCollapse span:first-of-type {
-    transform: rotate(45deg) translate(2px, 2px);
-}
-#sidebarCollapse span:nth-of-type(2) {
-    opacity: 0;
-}
-#sidebarCollapse span:last-of-type {
-    transform: rotate(-45deg) translate(1px, -1px);
-}
-
-
-#sidebarCollapse.active span {
-    transform: none;
-    opacity: 1;
-    margin: 5px auto;
-}*/
 /* ---------------------------------------------------
     CONTENT STYLE
 ----------------------------------------------------- */
@@ -364,7 +331,15 @@ a.article:hover {
     /* background: #ECFFBE; */
     background: #FFF; /* BGL */
 }
-
+#content.text { 
+    font-family: 'Courier Prime', sans-serif;
+    font-size: 1.1em;
+    font-weight: 300;
+    line-height: 1.7em;
+    padding: 10px;
+    /*color: #999;*/
+    color: #1A4876/*##414A4C*/; /* dark blue */
+}
 #content.active {
     width : 100%;
     left: 20px
