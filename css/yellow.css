@@ -20,10 +20,7 @@ p {
     color: #1A4876/*##414A4C*/; /* dark blue */
 }
 
-h3 {
-   padding: 20px;
-   color: #1A4876/*##414A4C*/; /* dark blue */
-}
+
 }
 a,
 a:hover,
@@ -38,7 +35,7 @@ h2 {
     font-family: 'Piedra', cursive;
     text-shadow: 4px 4px #ADADAD;
     text-align: center;
-    font-size: 300%;
+    font-size: 400%;
     font-weight: 700;
 }
 h3 {
