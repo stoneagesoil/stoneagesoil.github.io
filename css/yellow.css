@@ -6,12 +6,12 @@
    @import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
 
    body {
-    font-family: 'Piedra', cursive;
+    font-family: 'Courier Prime', sans-serif;
     background: #fafafa; /* dark white */
 }
 
 p {
-    font-family: 'Piedra', cursive;
+    font-family: 'Courier Prime', sans-serif;
     font-size: 1.1em;
     font-weight: 300;
     line-height: 1.7em;
