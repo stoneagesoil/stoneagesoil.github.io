@@ -47,6 +47,14 @@ h3 {
     font-size: 200%;
     font-weight: 400;
 }
+h4 {
+   padding: 10px;
+   color: #1A4876/*##414A4C*/; /* dark blue */
+    font-family: 'Piedra', cursive;
+    text-align: left;
+    font-size: 100%;
+    font-weight: 200;
+}
 
 .bannertext {
     color: #ECECEC;
@@ -346,15 +354,7 @@ a.article:hover {
     /*color: #999;*/
     color: #1A4876/*##414A4C*/; /* dark blue */
 }
-#content.h2 {
-   padding: 20px;
-   color: #1A4876/*##414A4C*/; /* dark blue */
-    font-family: 'Piedra', cursive;
-    text-shadow: 2px 2px #D3D3D3;
-    text-align: center;
-    font-size: 150%;
-    font-weight: 900;
-}
+
 #content.active {
     width : 100%;
     left: 20px
