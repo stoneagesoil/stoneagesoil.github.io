@@ -41,6 +41,15 @@ h2 {
     font-size: 300%;
     font-weight: 700;
 }
+h2 {
+   padding: 15px;
+   color: #1A4876/*##414A4C*/; /* dark blue */
+    font-family: 'Piedra', cursive;
+    text-shadow: 4px 4px #ADADAD;
+    text-align: left;
+    font-size: 200%;
+    font-weight: 400;
+}
 
 .bannertext {
     color: #ECECEC;
